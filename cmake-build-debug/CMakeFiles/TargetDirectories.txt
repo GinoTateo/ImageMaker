@@ -1,0 +1,11 @@
+/Users/ginotateo/Downloads/assignment-1-imagemaker-GinoTateo-3-main/cmake-build-debug/CMakeFiles/catch2_main.dir
+/Users/ginotateo/Downloads/assignment-1-imagemaker-GinoTateo-3-main/cmake-build-debug/CMakeFiles/ImageMaker_Driver.dir
+/Users/ginotateo/Downloads/assignment-1-imagemaker-GinoTateo-3-main/cmake-build-debug/CMakeFiles/ImageMaker_Test.dir
+/Users/ginotateo/Downloads/assignment-1-imagemaker-GinoTateo-3-main/cmake-build-debug/CMakeFiles/Getter_Setter_Test.dir
+/Users/ginotateo/Downloads/assignment-1-imagemaker-GinoTateo-3-main/cmake-build-debug/CMakeFiles/Constructor_Test.dir
+/Users/ginotateo/Downloads/assignment-1-imagemaker-GinoTateo-3-main/cmake-build-debug/CMakeFiles/Save_Load_Test.dir
+/Users/ginotateo/Downloads/assignment-1-imagemaker-GinoTateo-3-main/cmake-build-debug/CMakeFiles/DrawPixel_Test.dir
+/Users/ginotateo/Downloads/assignment-1-imagemaker-GinoTateo-3-main/cmake-build-debug/CMakeFiles/DrawRectangle_Test.dir
+/Users/ginotateo/Downloads/assignment-1-imagemaker-GinoTateo-3-main/cmake-build-debug/CMakeFiles/DrawLine_Test.dir
+/Users/ginotateo/Downloads/assignment-1-imagemaker-GinoTateo-3-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ginotateo/Downloads/assignment-1-imagemaker-GinoTateo-3-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir

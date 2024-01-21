@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ImageMaker",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Constructor_Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Constructor_Test-Debug-018bcc4d2fdf442ea800.json",
+					"name" : "Constructor_Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DrawLine_Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DrawLine_Test-Debug-fb1bbc26703c15829f05.json",
+					"name" : "DrawLine_Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DrawPixel_Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DrawPixel_Test-Debug-cd9480bb8cedeac024a6.json",
+					"name" : "DrawPixel_Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DrawRectangle_Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DrawRectangle_Test-Debug-2476dbf01de1d9ff26d6.json",
+					"name" : "DrawRectangle_Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Getter_Setter_Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Getter_Setter_Test-Debug-1060d62e502da32a0a7a.json",
+					"name" : "Getter_Setter_Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ImageMaker_Driver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ImageMaker_Driver-Debug-c0c37bdc86d4d65fdfa9.json",
+					"name" : "ImageMaker_Driver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ImageMaker_Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ImageMaker_Test-Debug-8dc263987cf1ea6c9089.json",
+					"name" : "ImageMaker_Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Save_Load_Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Save_Load_Test-Debug-c8cc62f624b766e1b5b7.json",
+					"name" : "Save_Load_Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "catch2_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-catch2_main-Debug-0b62dae6944a5ca93d7f.json",
+					"name" : "catch2_main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ginotateo/Downloads/assignment-1-imagemaker-GinoTateo-3-main/cmake-build-debug",
+		"source" : "/Users/ginotateo/Downloads/assignment-1-imagemaker-GinoTateo-3-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
